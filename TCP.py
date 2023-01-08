@@ -24,4 +24,4 @@ while (time.time() - start) < duration:
     sock.send("GET / HTTP/1.1\r\n")  
 
     # Close the connection when finished  
-sock.close()@!RedX
+sock.close()
